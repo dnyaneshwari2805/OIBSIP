@@ -1,0 +1,20 @@
+# Data Cleaning Project
+
+## Project Overview
+This project focuses on cleaning raw data and preparing it for analysis. Data cleaning helps improve data quality by handling missing values, duplicate records, and inconsistent data.
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+
+## Steps Performed
+- Data loading
+- Checking missing values
+- Handling null values
+- Removing duplicate data
+- Data formatting and transformation
+- Preparing clean dataset for analysis
+
+## Conclusion
+The cleaned dataset is ready for further analysis and machine learning applications.
